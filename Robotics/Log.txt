@@ -1,0 +1,4 @@
+score train: 0.5887096774193549
+score test:  0.34375
+pred prob CLF I:  [[0.47818256 0.52181744]]
+pred class CLF I: [2]
